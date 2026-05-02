@@ -11,12 +11,6 @@ Designed for junior developers who want a solid starting point to build and cust
 
 ---
 
-## 🌐 Live Demo
-
-👉 *(Add your GitHub Pages link here)*
-
----
-
 ## ✨ Features
 
 * 📱 Fully Responsive (Mobile / Tablet / Desktop)
@@ -28,7 +22,6 @@ Designed for junior developers who want a solid starting point to build and cust
   * About Me
   * Skills
   * Projects
-  * Certificates
   * Contact Form
 * 🧼 Clean and readable code structure
 * 🔧 Easy to customize
@@ -47,7 +40,7 @@ Designed for junior developers who want a solid starting point to build and cust
 
 ```
 portfolio/
-│── index.html
+│── index-1.html
 │── style.css
 │── script.js
 │── images/
@@ -60,10 +53,10 @@ portfolio/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/modern-portfolio-starter.git
+git clone https://github.com/thanos-coder2/portfolio-templates-bundle.git
 ```
 
-2. Open `index.html` in your browser
+2. Open `index-en.html` in your browser
 
 3. Customize:
 
@@ -133,7 +126,6 @@ This project is open-source and free to use.
   * About Me
   * Skills
   * Projects
-  * Certificates
   * Contact Form
 * 🧼 Καθαρός και οργανωμένος κώδικας
 * 🔧 Εύκολη προσαρμογή
@@ -153,10 +145,10 @@ This project is open-source and free to use.
 1. Κάνε clone το repo:
 
 ```bash
-git clone https://github.com/your-username/modern-portfolio-starter.git
+git clone https://github.com/thanos-coder2/portfolio-templates-bundle.git
 ```
 
-2. Άνοιξε το `index.html`
+2. Άνοιξε το `index-en.html`
 
 3. Προσαρμογή:
 
