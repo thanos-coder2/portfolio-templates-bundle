@@ -1,3 +1,8 @@
+![Screenshot](images-readme/hero-section.png)
+![Screenshot](images-readme/aboutme-section.png)
+![Screenshot](images-readme/skills-section.png) 
+![Screenshot](images-readme/project-section.png)
+![Screenshot](images-readme/contact-section.png)
 # 🚀 Modern Portfolio Starter
 
 A clean, responsive, and beginner-friendly portfolio template built with pure HTML & CSS.
