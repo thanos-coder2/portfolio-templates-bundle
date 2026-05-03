@@ -46,7 +46,7 @@ Each folder contains a complete standalone project.
 1. Clone the repository:
 
 ```bash id="t0m3va"
-git clone https://github.com/your-username/portfolio-templates-bundle.git
+git clone https://github.com/thanos-coder2/portfolio-templates-bundle.git
 ```
 
 2. Open any portfolio folder:
@@ -55,7 +55,7 @@ git clone https://github.com/your-username/portfolio-templates-bundle.git
 cd portfolio-1
 ```
 
-3. Open `index.html` in your browser
+3. Open `index-en.html` in your browser
 
 4. Customize it:
 
@@ -119,7 +119,6 @@ This project is open-source and free to use.
 portfolio-templates-bundle/
 │── portfolio-1/
 │── portfolio-2/
-│── portfolio-3/
 │── README.md
 ```
 
@@ -141,7 +140,7 @@ portfolio-templates-bundle/
 1. Κάνε clone το repository:
 
 ```bash id="rq6yvl"
-git clone https://github.com/your-username/portfolio-templates-bundle.git
+git clone https://github.com/thanos-coder2/portfolio-templates-bundle.git
 ```
 
 2. Μπες σε ένα portfolio:
@@ -150,7 +149,7 @@ git clone https://github.com/your-username/portfolio-templates-bundle.git
 cd portfolio-1
 ```
 
-3. Άνοιξε το `index.html`
+3. Άνοιξε το `index-en.html`
 
 4. Προσαρμογή:
 
