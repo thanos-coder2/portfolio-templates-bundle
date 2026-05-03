@@ -23,7 +23,8 @@ Each portfolio is separated into its own folder:
 
 ```id="p4k82x"
 portfolio-templates-bundle/
-│── portfolio-1/
+│── portfolio 1/
+│── portfolio 2/
 │── README.md
 ```
 
@@ -117,8 +118,8 @@ This project is open-source and free to use.
 
 ```id="n3ptde"
 portfolio-templates-bundle/
-│── portfolio-1/
-│── portfolio-2/
+│── portfolio 1/
+│── portfolio 2/
 │── README.md
 ```
 
