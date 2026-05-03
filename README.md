@@ -53,7 +53,9 @@ git clone https://github.com/thanos-coder2/portfolio-templates-bundle.git
 2. Open any portfolio folder:
 
 ```bash id="d6lgqk"
-cd portfolio-1
+cd portfolio 1
+cd portfolio 2
+
 ```
 
 3. Open `index-en.html` in your browser
@@ -147,7 +149,8 @@ git clone https://github.com/thanos-coder2/portfolio-templates-bundle.git
 2. Μπες σε ένα portfolio:
 
 ```bash id="e4lvcm"
-cd portfolio-1
+cd portfolio 2
+cd portfolio 2
 ```
 
 3. Άνοιξε το `index-en.html`
