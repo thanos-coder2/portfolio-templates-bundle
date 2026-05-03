@@ -368,83 +368,7 @@ object-fit: cover;
   text-align: center;
 }
 
-
-
-/*studet cards*/
-    .containerst {
-  max-width: 1000px;
-  margin: 40px auto;
-  padding: 20px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-h5 {
-  text-align: center;
-  margin-bottom: 40px;
-  font-size: 36px;
-}
-
-.cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 20px;
-}
-
-.card {
-  background-color: black;
-  border: 2px solid rgba(0,255,255,0.6);
-  padding: 20px;
-  border-radius: 10px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-.card img{
-  width: 150px;
-  height: 150px;
-  border-radius: 10px;
-}
-
-.card:hover {
-  transform: scale(1.03);
-  box-shadow: 0 0 10px rgba(0, 255, 255, 0.8), 0 0 20px rgba(0, 255, 255, 0.6), 0 0 30px rgba(0, 255, 255, 0.4);
-}
-
-.card h5 {
-  text-align: left;
-  margin-top: 0;
-  color: white;
-}
-
-.issuer {
-  font-weight: bold;
-  color: #c5e1a5;
-}
-
-.date {
-  font-size: 0.9em;
-  color: #aaa;
-  margin-bottom: 10px;
-}
-
-.description {
-  font-size: 1em;
-  color: #ddd;
-}
-
-
-#profile-link {
-    display: block;
-    text-align: center;
-    margin-bottom: 50px;
-    font-size: 1.2rem;
-    font-weight: 600;
-    color: white;
-    text-decoration: none;
-    }
-#profile-link:hover {
-    text-decoration: underline;
-}
-
-              /*contact form*/
+/*contact form*/
 .contact-form-section {
   padding: 3rem 1rem;
   max-width: 500px;
@@ -610,20 +534,6 @@ h5 {
     padding: 8px 12px;
   }
 
-  /* ---------- CERTIFICATES ---------- */
-  h5 {
-    font-size: 24px;
-  }
-
-  .card {
-    padding: 15px;
-  }
-
-  .card img {
-    width: 80px;
-    height: 80px;
-  }
-
   /* ---------- CONTACT ---------- */
   .contact-form-section h4 {
     font-size: 1.5rem;
@@ -742,16 +652,6 @@ h5 {
 
   .project-card {
     max-width: 100%;
-  }
-
-  /* ---------- CERTIFICATES ---------- */
-  .cards {
-    grid-template-columns: 1fr;
-  }
-
-  .card img {
-    width: 100px;
-    height: 100px;
   }
 
   /* ---------- CONTACT ---------- */
