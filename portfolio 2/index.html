@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>portfolio web developer</title>
+
+</head>
+<body>
+ <nav class="navbar">
+        <div class="logo">MySite</div>
+        <div class="nav-links">
+            <a href="#home">home</a>
+            <a href="#about">about me</a>
+            <a href="#projects">projects</a>
+            <a href="#contact">contact</a>
+        </div>
+    </nav>
+  <header id="home">
+    <h1>Hello my name is thanos</h1>
+    <p>Web Developer | Python Enthusiast</p>
+  </header>
+
+  <section class="about" id="#about">
+    <h2>about</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum soluta quibusdam</p>
+  </section>
+
+  <section class="projects" id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Weather App</h3>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      <a href="#" target="_blank">view project</a>
+    </div>
+    <div class="project">
+      <h3>Task Manager</h3>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      <a href="#" target="_blank">view project</a>
+    </div>
+  </section>
+
+  <section class="contact" id="contact">
+    <h3>contact</h3>
+    <p>Email: <a href="mailto:example@email.com">example@email.com</a></p>
+    <p>GitHub: <a href="https://github.com/username" target="_blank">@username</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 thanosdev.</p>
+  </footer>
+  <style>
+    /* Βασικά στυλ - dark theme */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #121212;
+  color: #f0f0f0;
+  line-height: 1.6;
+}
+
+.navbar {
+    background-color: #121212; /* Χρώμα φόντου */
+    color: white;
+    display: flex;
+    justify-content: space-between; /* Σπρώχνει logo αριστερά και links δεξιά */
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px; /* Απόσταση μεταξύ των links */
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #f4a261; /* Χρώμα στο hover */
+}
+
+
+header {
+  background-color: #1f1f1f;
+  padding: 2rem;
+  text-align: center;
+  border-bottom: 2px solid #333;
+}
+
+h1, h2, h3 {
+  color: #00fff0;
+}
+
+a {
+  color: #00adb5;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.project {
+  background-color: #1e1e1e;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #00adb5;
+  border-radius: 6px;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #1f1f1f;
+  font-size: 0.9rem;
+  border-top: 2px solid #333;
+}
+
+  </style>
+</body>
+</html>
