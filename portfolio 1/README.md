@@ -11,7 +11,7 @@ Designed for junior developers who want a solid starting point to build and cust
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 * 📱 Fully Responsive (Mobile / Tablet / Desktop)
 * 🎨 Modern Dark UI Design
