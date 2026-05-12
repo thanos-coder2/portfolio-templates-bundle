@@ -51,7 +51,7 @@ git clone https://github.com/thanos-coder2/portfolio-templates-bundle.git
 ```
 
 2. Open any portfolio folder:
-
+ 
 ```bash id="d6lgqk"
 cd portfolio 1
 cd portfolio 2
