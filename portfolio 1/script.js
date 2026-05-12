@@ -1,4 +1,3 @@
-  
   //cycle mouse
   const circle=document.getElementById("circle");
   document.addEventListener("mousemove",(e) => {
@@ -9,12 +8,10 @@
 
   //loading screen 
 window.addEventListener("load", function () {
-
 setTimeout(() => {
   const preloader = document.getElementById("preloader");
   preloader.style.opacity = "0";
   preloader.style.visibility = "hidden";
-
 
   setTimeout(() => preloader.remove(), 600);
 }, 1000); 
